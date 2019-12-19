@@ -1,10 +1,11 @@
 {
   "name": "@codereview/forms",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ready forms with material ui design",
   "author": "musti-91",
   "license": "MIT",
-  "repository": "musti-91/@codereview/forms",
+  "repository": "https://github.io/musti-91/-codereview-forms",
+  "homepage": "https://github.io/musti-91/-codereview-forms",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
